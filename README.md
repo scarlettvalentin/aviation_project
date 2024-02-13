@@ -2,7 +2,7 @@
 
 # Data Understanding
 
-## Data Preperation
+## Data Preparation
 
 # Exploratory Data Analysis
 
