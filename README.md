@@ -24,13 +24,13 @@ The [Aviation Accident Database & Synopses, up to 2023](https://www.kaggle.com/d
 # Conclusion
 
 ## Results
-I began with comparing the top 4 aircraft makes with the **average number of injuries** per accident. Bombardier has the *least* average number of injuries, while the average total fatal injuries is greater than Airbus, but comparable to Boeing and Embraer. Boeing has the *highest* average number of minor, serious, and fatal injuries.
+• I began with comparing the top 4 aircraft makes with the **average number of injuries** per accident. Bombardier has the *least* average number of injuries, while the average total fatal injuries is greater than Airbus, but comparable to Boeing and Embraer. Boeing has the *highest* average number of minor, serious, and fatal injuries.
 <img src="/images/Average Total Injuries By Make.png/" style="height:400px"/>
 
-Bombardier aircrafts with **2 engines** hold both a significantly *higher* uninjured rate and *lower* fatality ratethan bombardier aircrafts with 1 engine.
-<img src="/images/Fatality and Uninjured Rates By Number of Engines.png/" style="height:400px"/>
+• Bombardier aircrafts with **2 engines** hold both a significantly *higher* uninjured rate and *lower* fatality ratethan bombardier aircrafts with 1 engine. <br>
+<img src="/images/Fatality and Uninjured Rates By Number of Engines.png/" style="height:400px"/> <br>
 
-The **northeast** has the *highest* average fatality rate among **Bombardier** aircrafts and the **south** has the *lowest* fatality rate. 
+• The **northeast** has the *highest* average fatality rate among **Bombardier** aircrafts and the **south** has the *lowest* fatality rate. 
 <img src="/images/Average Fatal Injury Rate By Region_Bombardier.png/" style="height:400px"/>
 
 ## Limitations
