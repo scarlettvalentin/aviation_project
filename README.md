@@ -62,7 +62,6 @@ In order to optimize ***profits*** for this new industry expansion, we must anal
 # For More Information
 See the full analysis in the [Jupyter Notebook](/notebook.ipynb/), review this [presentation](/presentation.pdf/), or review the [interactive dashboard](https://public.tableau.com/app/profile/scarlett.valentin/viz/Aviation_Expansion_Dashboard/AverageTotalInjuriesByMake?publish=yes)
 
-For additional information, contact Scarlett Valentin at scarlettmvalentin@gmail.com.
 
 
 
