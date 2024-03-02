@@ -32,12 +32,17 @@ Before beginning any type of analysis, I must clean the dataset.
 # Exploratory Data Analysis
 ### *Make* Analysis
 I began with comparing the top 4 aircraft makes with the **average number of injuries** per accident. Bombardier has the *least* average number of injuries and the *least* average number of fatal injuries. Airbus has the *highest* average number of total injuries and the *highest* average numbers of fatal injuries.
+
 <img src="images/average_total_injuries_by_make.jpeg" style="height:400px"/>
+
 ### Number of Engines Analysis
 Aircrafts with **3 engines** hold both the *highest* uninjured rate and the *lowest* fatality rate, followed by aircrafts with 2 engines, aircrafts with 4 engines, aircafts with 1 engine, and lastly, aircrafts with 0 engines. Aircrafts with 0 engines (gliders) have the *lowest* uninjured rate and the *highest* fatality rate. Bombardier only has 1-engine and 2-engine aicrafts, and their 2-engine aircrafts are overwhelmingly safer than their 1-engine aircrafts.
+
 <img src="images/fatality_and_uninjured_rates_by_number_of_engines.jpeg" style="height:400px"/>
+
 ### *Model* Analysis
 The aircrafts have been narrowed down to Bombardier 2-engine aircrafts. Upon the *model* analysis, I first narrowed down to 9 models that had a 100% uninjured rate. Then I determined the most popular aircraft model by counting how many entries each of the models had in the data. The **CL-600** had the *highest count*. Although this dataset does not have a record of all flights, I am assuming the CL-600 has the highest number of occurences due to its popularity. This assumption is supported by the fact that the Bombardier 2-engine aircrafts are proven to be safe, and all accidents with this model have a 100% uninjured rate.
+
 <img src="images/uninjured_rate_by_model.jpeg" style="height:400px"/>
 
 # Conclusion
